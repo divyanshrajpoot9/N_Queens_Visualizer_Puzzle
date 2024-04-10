@@ -1,5 +1,5 @@
 # N_Queens_Visualizer_Puzzle:
-### Hosted Link: 
+### Hosted Link: https://divyanshrajpoot9.github.io/N_Queens_Visualizer_Puzzle/
 ### Technologies Used: HTML5/CSS3/JavaScript/ES6/Git/GitHub/VSCode/Figma/FontAwesomeCDN.
 This code is a JavaScript implementation of the N-Queens problem visualization using HTML, CSS, and JavaScript. 
 Here's a breakdown of the code:
